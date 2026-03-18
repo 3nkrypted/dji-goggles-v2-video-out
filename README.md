@@ -2,7 +2,7 @@
 
 Standalone tool to stream live FPV video from DJI FPV Goggles V2 to your PC over USB-C
 
-Tested with Caddx Vista paired to Goggles V2.
+Tested with Caddx Vista paired to Goggles V2
 
 Based on the USB bulk transfer protocol discovered by [fpv-wtf/voc-poc](https://github.com/fpv-wtf/voc-poc).
 
